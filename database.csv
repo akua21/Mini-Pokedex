@@ -1,0 +1,13 @@
+Número, Nombre, Tipo, Evol. actual, Evol. totales, Imagen
+001, Bulbasaur, Planta-Veneno, 1, 3, ./images/001.png
+002, Ivysaur, Planta-Veneno, 2, 3, ./images/002.png
+003, Venusaur, Planta-Veneno, 3, 3, ./images/003.png
+004, Charmander, Fuego, 1, 3, ./images/004.png
+005, Charmeleon, Fuego, 2, 3, ./images/005.png
+006, Charizard, Fuego-Volador, 3, 3, ./images/006.png
+007, Squirtle, Agua, 1, 3, ./images/007.png
+008, Wartortle, Agua, 2, 3, ./images/008.png
+009, Blastoise, Agua, 3, 3, ./images/009.png
+010, Caterpie, Bicho, 1, 3, ./images/010.png
+011, Metapod, Bicho, 2, 3, ./images/011.png
+012, Butterfree, Bicho-Volador, 3, 3, ./images/012.png
