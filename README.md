@@ -15,4 +15,4 @@ In this version there are only 12 pokemon (**the first 12 pokemon of the first g
 
 When you write the number of the pokemon you want to see it shows you
 
-
+![example number 8](./example.png)
