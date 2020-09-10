@@ -16,3 +16,4 @@ In this version there are only 12 pokemon (**the first 12 pokemon of the first g
 When you write the number of the pokemon you want to see it shows you this:
 
 <img src="/home/akua21/PROYECTOS/Mini-Pokedex/example.png" alt="example of pokemon number 8" style="height: 100px; width:100px;"/>
+![example of pokemon number 8](/home/akua21/PROYECTOS/Mini-Pokedex/example.png "example of pokemon number 8")
