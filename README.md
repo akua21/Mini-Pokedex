@@ -13,8 +13,6 @@ The images are stored in the folder *images*
 
 In this version there are only 12 pokemon (**the first 12 pokemon of the first generation**)
 
-When you write the number of the pokemon you want to see it shows you this:
-
-![example of pokemon number 8](/example.png)
+When you write the number of the pokemon you want to see it shows you
 
 
